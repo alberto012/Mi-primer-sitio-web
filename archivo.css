@@ -1,0 +1,26 @@
+body {
+  flex-direction: row;
+  font-family: "Waiting for the Sunrise", cursive;
+  background-color: rgba(168, 168, 180, 0.733);
+  align-content: flex-end;
+}
+img {
+    width: 20%;
+    border-radius: 20px;
+}
+ul {
+    line-height: 16px;
+    font-weight: 500;
+    background-color: grey;
+    text-align: center;
+}
+h3 {
+    text-align:inherit;
+    border-radius: 20px;
+    font-size: 22px;
+
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
